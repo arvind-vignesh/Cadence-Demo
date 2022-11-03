@@ -1,0 +1,48 @@
+{
+    "name": "TestAirflow",
+    "designiation": "Lead Engineer",
+    "eployeeId": 30042123,
+    "email": "testairflow@delta.com",
+    "bankInfo": {
+      "bankName": "Testbank",
+      "accountNumber": 12345465789
+    },
+    "hr": {
+      "emailNotified": true,
+      "compenstation": {
+        "bonus": 200000,
+        "stocks": {
+          "units": 100,
+          "price": 38,
+          "currency": "USD"
+        }
+      },
+      "payroll": {
+        "basepay": 600000,
+        "PF": 120000,
+        "other": 340000
+      },
+      "financeEnabled": true
+    },
+    "benifits": {
+      "wellbeing": [
+        "shareCare",
+        "grokers"
+      ],
+      "travel": true,
+      "training": [
+        "Leadership Anchor"
+      ]
+    },
+    "Asset": {
+      "Desktop": {
+        "serial": "SER10201"
+      }
+    },
+    "training": [
+      {
+        "id": "Leadership",
+        "url": "url.com"
+      }
+    ]
+  }

@@ -1,0 +1,1 @@
+docker run --network=host --rm ubercadence/cli:master --do test-domain workflow start --tasklist HelloWorkflow --workflow_type HelloWorkflow::getGreeting --execution_timeout 3600 --input \"World\"
